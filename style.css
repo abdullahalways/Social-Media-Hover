@@ -36,6 +36,10 @@
     color: #1DA1F2;
     background-image: linear-gradient(#fff 50%, #1DA1F2 50%);
 }
+.icons a:nth-child(4){
+    color: #000;
+    background-image: linear-gradient(#fff 50%, #000 50%);
+}
 .icons a:hover{
     background-position: 0% 100%;
     color: #fff;
